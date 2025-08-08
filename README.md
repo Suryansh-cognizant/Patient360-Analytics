@@ -147,7 +147,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/patient360-analytics/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/patient360-analytics/wiki)
-- **Email**: your.email@domain.com
+- **Email**: suryansh.prasad@cognizant.com
 
 ---
 
